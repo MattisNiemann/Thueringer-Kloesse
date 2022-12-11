@@ -1,0 +1,22 @@
+body {
+        background-color:#202124;
+        color: lightblue;
+        margin-left: 400px;
+        margin-right: 400px ;
+        font-size: 2em;
+        text-align: center;
+        box-sizing: border-box ;
+}
+#fritz {
+        border-radius: 50%;
+        width: 200px;
+}
+#kloss{
+        border-radius: 20px;
+}
+.btn{
+        background-color:#202124;
+        color: lightblue;
+        font-size: 3rem;
+        border: 10px solid #202124;
+}
